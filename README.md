@@ -28,11 +28,23 @@ Farmer suicides remain one of India’s most critical socio-economic challenges.
 
 
 farmer-suicide-eda/
+
+
 │── eda.ipynb            # Jupyter Notebook with full analysis
+
+
 │── plots/               # Saved charts & visualizations
+
+
 │── data/                # (Optional) sample datasets or external links
+
+
 │── requirements.txt     # Dependencies
+
+
 │── README.md            # Project documentation
+
+
 
 
   📊 Visual Snapshot
