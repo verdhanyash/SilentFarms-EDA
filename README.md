@@ -63,6 +63,27 @@ Jupyter Notebook – for analysis & visualization
 visualization
 
 
+⚙️ Setup & Usage
+
+
+1.Clone the repository
+
+git clone https://github.com/your-username/farmer-suicide-eda.git
+cd farmer-suicide-eda
+
+
+2.Install dependencies
+
+
+pip install -r requirements.txt
+
+
+3.Launch Jupyter Notebook
+
+
+jupyter notebook eda.ipynb
+
+
 
 📜 License
 
